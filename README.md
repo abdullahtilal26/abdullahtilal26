@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullahtilal26
-- 👀 I’m interested in ...Web/App developement and Cyber Defence
-- 🌱 I’m currently learning ...Web Development
+- 👀 I’m interested in ...Software Engineering , Web/App developement and Cyber Defence
+- 🌱 I’m currently learning ...Software Engineering and Web Development
 - 💞️ I’m looking to collaborate on ...ANY PROJECT..
 - 📫 How to reach me ...email me at abdullahtilal26@gmail.com
 
