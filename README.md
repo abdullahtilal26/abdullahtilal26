@@ -87,7 +87,7 @@ Continuously upgrading skills to stay aligned with **modern engineering trends**
 
 ## 📫 How to Reach Me
 - 📧 Email: **abdullahtilal26@gmail.com**  
-- 🌐 Website: **https://abdullahtilal.com**  
+- 🌐 Website: [**https://abdullahtilal.com**](https://abdullahtilal.com/?utm_source=github&utm_medium=profile&utm_campaign=personal_brand)
 - 💼 LinkedIn:  
   https://www.linkedin.com/in/abdullah-tilal-khan-3435611b5/  
 - 🧑‍💻 Fiverr:  
